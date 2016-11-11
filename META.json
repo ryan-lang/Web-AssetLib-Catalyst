@@ -42,6 +42,7 @@
       },
       "runtime" : {
          "requires" : {
+            "Web::AssetLib" : "0",
             "perl" : "5.018004"
          }
       },
