@@ -1,0 +1,4 @@
+name = "Web-AssetLib-Catalyst"
+# badges = ["travis"]
+module_maker="ModuleBuildTiny"
+
